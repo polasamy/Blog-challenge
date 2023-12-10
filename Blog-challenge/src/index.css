@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-family: 'Geologica', sans-serif;
+  font-family: 'Roboto Slab', serif;
+}
+

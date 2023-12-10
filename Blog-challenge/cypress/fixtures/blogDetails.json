@@ -1,0 +1,48 @@
+[
+    {
+      "id": "1",
+      "title": "Introduction to JavaScript",
+      "author": { "id": 101, "name": "John Doe" },
+      "content": "JavaScript is a scripting language used to create and control dynamic web content. It is an interpreted, lightweight object-oriented programming language that enables dynamic interactivity on websites. It can be anything from animated graphics to an automatically generated Facebook timeline. Once you have created your basic structure(HTML) and elegant vibe(CSS), JavaScript makes your website dynamic(automatically updateable). If you are a software developer gravitated towards web development then you must learn javascript and once you have learned JavaScript there are many frameworks available which you can use to create multiple web applications. Nowadays javascript is also used in mobile app development, desktop app development, and game development. This opens many possibilities for you as a JavaScript developer.",
+      "next": "/postsDetails/2",
+      "prev": null,
+      "createdAt": "2023-01-01"
+    },
+    {
+      "id": "2",
+      "title": "React Basics",
+      "author": { "id": 102, "name": "Jane Smith" },
+      "content": "# Getting Started with React\nLearn the basics of React in this blog post.",
+      "next": "/postsDetails/3",
+      "prev": "/postsDetails/1",
+      "createdAt": "2023-02-15"
+    },
+    {
+      "id": "3",
+      "title": "Node.js and Express",
+      "author": { "id": 103, "name": "Bob Johnson" },
+      "content": "Building Web Servers with Node.js and Express\nExplore server-side development with Node.js and Express.",
+      "next": "/postsDetails/4",
+      "prev": "/postsDetails/2",
+      "createdAt": "2023-03-10"
+    },
+    {
+      "id": "4",
+      "title": "JavaScript Promises Explained",
+      "author": { "id": 104, "name": "Alice Williams" },
+      "content": "Demystifying JavaScript Promises\nUnderstand the concept of promises in JavaScript.",
+      "next": "/postsDetails/5",
+      "prev": "/postsDetails/3",
+      "createdAt": "2023-04-05"
+    },
+    {
+      "id": "5",
+      "title": "CSS Flexbox and Grid Layout",
+      "author": { "id": 105, "name": "Charlie Brown" },
+      "content": "Mastering CSS Layouts with Flexbox and Grid\nLearn how to create responsive layouts using Flexbox and Grid.",
+      "next": null,
+      "prev": "/postsDetails/4",
+      "createdAt": "2023-05-20"
+    }
+  ]
+  

@@ -1,0 +1,10 @@
+.nav_button{
+    cursor: pointer;
+    transition-duration: 500ms;
+    font-size: 1.2rem;
+    margin: 0 1rem;
+}
+.nav_button:hover{
+    opacity: 0.6;
+
+}
